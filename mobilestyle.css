@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+  .testing {
+    /* background-color: blue; */
+    margin-top: 15%;
+    font-size: xx-large;
+  }
+  .menu {
+    margin-top: 20%;
+    font-size: large;
+  }
+}
